@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import asyncio, argparse, textwrap, validators
 from colorama import Fore, Style
 from helpers.utils import *
